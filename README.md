@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=#b897ff&height=120&text=edasdasd&animation=fadeIn&fontColor=000000&fontSize=70" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=13a0e7&height=120&text=&animation=fadeIn&fontColor=000000&fontSize=70" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! 백엔드 개발자 이민수입니다! </h2>  
@@ -25,6 +25,8 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white">
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">
+          <img src="https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=Slack&logoColor=white">
+          <br/><img src="https://img.shields.io/badge/Express-000000?style=plastic&logo=Express&logoColor=white">
           </div>
     </div>
     <div align= "center">
@@ -39,4 +41,5 @@ Here are some ideas to get you started:
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=99MinSu&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+    
     
