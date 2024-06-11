@@ -14,9 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align= "center">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=#b897ff&height=120&text=edasdasd&animation=fadeIn&fontColor=000000&fontSize=70" />
+    </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요!! </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 꾸준히 성장하는 개발자입니다. </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요! 백엔드 개발자 이민수입니다! </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
@@ -29,6 +32,7 @@ Here are some ideas to get you started:
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:kyoon1023@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:kyoon1023@gmail.com"> </a>
+         <a href=> <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white&link="> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
@@ -37,4 +41,5 @@ Here are some ideas to get you started:
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=99MinSu&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /> </div> 
     </div>
+    
     
