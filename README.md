@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=#b897ff&height=120&text=Hello&animation=&fontColor=000000&fontSize=70" />
-    </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 안녕하세요!! </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> 꾸준히 성장하는 개발자입니다. </div> 
