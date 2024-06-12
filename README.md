@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:kyoon1023@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:kyoon1023@gmail.com"> </a>
-         <a href=> <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white&link="> </a>
+         <a href=http://www.instagram.com/l_alstn> <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/l_alstn"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
