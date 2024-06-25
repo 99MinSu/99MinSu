@@ -20,8 +20,9 @@ Here are some ideas to get you started:
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
     <div align= "center">
-    <h2 align="center">About Me 😝</h2>
+    <h2 align="center">About Me 🤗</h2>
     <p text-align="center">
+    💯 LG U+ URECA 1th BackEnd (2024.6 ~ )
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
@@ -32,7 +33,7 @@ Here are some ideas to get you started:
           </div>
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact  </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💬 Contact  </h2> <br> 
     <div align= "center"> <a href=mailto:kyoon1023@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:kyoon1023@gmail.com"> </a>
          <a href=http://www.instagram.com/l_alstn> <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/l_alstn"> </a>
           </div>  <br> 
@@ -40,8 +41,8 @@ Here are some ideas to get you started:
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=99MinSu&theme=ambient_gradient"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=99MinSu&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
-           /> </div> 
+         />
+           </div> 
     </div>
     
     
