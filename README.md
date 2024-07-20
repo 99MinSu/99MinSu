@@ -36,6 +36,7 @@ Here are some ideas to get you started:
     <div>
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💬 Contact  </h2> <br> 
     <div> <a href=mailto:kyoon1023@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:kyoon1023@gmail.com"> </a>
+          <a href=https://dlalstn1023.tistory.com><img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&link=https://dlalstn1023.tistory.com"></a>
           <a href=http://www.instagram.com/l_alstn> <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=Instagram&logoColor=white&link=https://www.instagram.com/l_alstn"> </a>
     </div>  
     </div>
