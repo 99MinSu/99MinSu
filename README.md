@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
     </div>
     <div>
-    <h2>🤗 About Me</h2>
+    <h2>🤗 About Me 🤗</h2>
     <p>
     💯 LG U+ URECA 1th BackEnd (2024.6 ~ )
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
