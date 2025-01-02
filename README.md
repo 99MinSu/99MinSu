@@ -40,7 +40,7 @@ Here are some ideas to get you started:
         
 - **댕댕살롱 : 강아지 미용 중계 서비스** *(2024.11 ~ 2024.12)*  
     - **멱등키**를 활용한 중복 방지 및 재시도 결제 시스템 구현  
-    - 안정적인 FCM 토큰 관리 전략을 활용한 **실시간 푸시 알림 시스템 설계**([정리 내용](https://dlalstn1023.tistory.com/24))
+    - 안정적인 FCM 토큰 관리 전략을 활용한 **실시간 푸시 알림 시스템 설계**([알아보기](https://dlalstn1023.tistory.com/24))
     - GPT OpenAI를 활용한 반려견 미용 스타일 **AI 기반 이미지 생성** 기능 제공
  
  🔗 [프로젝트 링크](https://github.com/Ureca-Dangdang-salon/dang_server)
