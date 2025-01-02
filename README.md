@@ -24,7 +24,7 @@ Here are some ideas to get you started:
     <h2>🤗 About Me 🤗</h2>
     <p>
     💯 LG U+ URECA 1th BackEnd (2024.6.10 ~ 2024.12.24)
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
     <div style="margin: 0 auto;> <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"> 
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Java&logoColor=white">        
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
           </div>
     </div>
     <div>
- <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💼 Projects  </h2> <br> 
+ <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💼 Projects  </h2>
         
 - **댕댕살롱 : 강아지 미용 중계 서비스** *(2024.11 ~ 2024.12)*  
     - **멱등키**를 활용한 중복 방지 및 재시도 결제 시스템 구현  
@@ -53,10 +53,11 @@ Here are some ideas to get you started:
     
  🔗 [프로젝트 링크](https://github.com/ureca-Integrated/backend)
  
- <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💬 Contact  </h2> <br> 
-    <div> <a href=mailto:kyoon1023@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:kyoon1023@gmail.com"> </a>
-          <a href=https://dlalstn1023.tistory.com><img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&link=https://dlalstn1023.tistory.com"></a>
-    </div>  
+ <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💬 Contact  </h2>
+ 
+- **이메일**: kyoon1023@gmail.com
+- **블로그**: [dlalstn1023.tistory.com](https://dlalstn1023.tistory.com)
+
     </div>
     <div> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
