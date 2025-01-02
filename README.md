@@ -36,7 +36,23 @@ Here are some ideas to get you started:
           </div>
     </div>
     <div>
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💬 Contact  </h2> <br> 
+ <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💼 Projects  </h2> <br> 
+        
+- **댕댕살롱: 강아지 미용 중계 서비스** *(2024.11 ~ 2024.12)*  
+    - **멱등키**를 활용한 중복 방지 및 재시도 결제 시스템 구현  
+    - 안정적인 FCM 토큰 관리 전략을 활용한 **실시간 푸시 알림 시스템 설계**([블로그 링크](https://dlalstn1023.tistory.com/24))
+ 
+ 🔗 [프로젝트 링크](https://github.com/Ureca-Dangdang-salon/dang_server)
+
+- **아이북조아: MBTI 기반 책 추천 시스템** *(2024.10 ~ 2024.11)*
+    - 효율적인 협업과 코드 품질 향상을 위해 **페어 프로그래밍으**로 진행
+    - Redis의 Set 자료형과 Lua 스크립트를 활용해 **실시간 응모 이벤트 및 중복 방지 시스템 구축**  
+    - 부하 테스트 및 테스트 코드 작성을 통한 **성능 테스트 및 시스템 안정성 검증**  
+    - **LG U+ 유레카 1기 백엔드 비대면 종합 프로젝트 최우수상** 수상
+    
+ 🔗 [프로젝트 링크](https://github.com/ureca-Integrated/backend)
+ 
+ <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 💬 Contact  </h2> <br> 
     <div> <a href=mailto:kyoon1023@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:kyoon1023@gmail.com"> </a>
           <a href=https://dlalstn1023.tistory.com><img src="https://img.shields.io/badge/Tistory-000000?style=plastic&logo=Tistory&logoColor=white&link=https://dlalstn1023.tistory.com"></a>
     </div>  
