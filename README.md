@@ -46,10 +46,10 @@ Here are some ideas to get you started:
  🔗 [프로젝트 링크](https://github.com/Ureca-Dangdang-salon/dang_server)
 
 - **아이북조아 : MBTI 기반 책 추천 시스템** *(2024.10 ~ 2024.11)*
-    - 효율적인 협업과 코드 품질 향상을 위해 **페어 프로그래밍으**로 진행
+    - 효율적인 협업과 코드 품질 향상을 위해 **페어 프로그래밍** 진행
     - Redis의 Set 자료형과 Lua 스크립트를 활용해 **실시간 응모 이벤트 및 중복 방지 시스템 구축**  
     - 부하 테스트 및 테스트 코드 작성을 통한 **성능 테스트 및 시스템 안정성 검증**  
-    - **LG U+ 유레카 1기 백엔드 비대면 종합 프로젝트 최우수상** 수상
+    - 🏆 **LG U+ 유레카 1기 백엔드 비대면 종합 프로젝트 최우수상**
     
  🔗 [프로젝트 링크](https://github.com/ureca-Integrated/backend)
  
