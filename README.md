@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     <div>
     <h2>🤗 About Me 🤗</h2>
     <p>
-    💯 LG U+ URECA 1th BackEnd (2024.6.10 ~ 2024.12.24)
+    💯 LG U+ URECA 1st BackEnd (2024.6.10 ~ 2024.12.24)
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> 
     <div style="margin: 0 auto;> <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white">
           <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"> 
