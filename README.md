@@ -29,8 +29,6 @@ Here are some ideas to get you started:
           <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"> 
           <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=Spring&logoColor=white">        
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=Node.js&logoColor=white">
-          <img src="https://img.shields.io/badge/Express-000000?style=plastic&logo=Express&logoColor=white">
           <br><img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML5&logoColor=white">    
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=plastic&logo=Javascript&logoColor=white">    
           <br><img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white">
