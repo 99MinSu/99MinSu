@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 - **댕댕살롱 : 강아지 미용 중계 서비스** *(2024.11 ~ 2024.12)*  
     - **멱등키**를 활용한 중복 방지 및 재시도 PG결제 시스템 구현([알아보기](https://dlalstn1023.tistory.com/27))
     - 안정적인 FCM 토큰 관리 전략을 활용한 **실시간 푸시 알림 시스템 설계**([알아보기](https://dlalstn1023.tistory.com/24))
-    - GPT OpenAI를 활용한 반려견 미용 스타일 **AI 기반 이미지 생성** 기능 제공
+    - GPT OpenAI를 활용한 반려견 미용 스타일 **AI 기반 이미지 생성** 기능 제공([알아보기](https://dlalstn1023.tistory.com/30))
     - **Flyway**를 활용한 데이터베이스 마이그레이션 자동화 및 이력 관리
     - **JaCoCo**를 활용한 테스트 커버리지 측정 및 코드 품질 개선
  
