@@ -61,11 +61,6 @@ Here are some ideas to get you started:
 - **블로그**: [dlalstn1023.tistory.com](https://dlalstn1023.tistory.com)
 
     </div>
-    <div> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-    <div> <img src="https://github-readme-stats.vercel.app/api?username=99MinSu&theme=ambient_gradient">
-          <a href="https://solved.ac/profile/dlalstn1023"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dlalstn1023"></a>
-    </div>
 </div>
     
     
